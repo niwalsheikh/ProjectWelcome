@@ -4,7 +4,7 @@ An open-source repository to consolidate resources for anyone that lives in DC.
 
 It will include the following (and more):
 
-<a href="projectwelcome/events">Events</a>
+<a href="projectwelcome/events.md">Events</a>
 
 Masaajid (Mosques)
 <br>
