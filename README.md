@@ -1,4 +1,4 @@
-# WelcomeDC
+# Welcome.DC
 An open-source repository to consolidate resources for anyone that lives in DC
 
 It will include something like:
@@ -18,3 +18,6 @@ Halal-friendly locations
 Links to event websites
 <br>
 Etc
+<br>
+<br>
+The point of this resource is to allow our community to organize cohesively, and also create an institution where we can reach each other and open our doors to eachother with ease.
