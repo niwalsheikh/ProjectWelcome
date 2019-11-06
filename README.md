@@ -1,21 +1,23 @@
 # Welcome.DC
-An open-source repository to consolidate resources for anyone that lives in DC
+An open-source repository to consolidate resources for anyone that lives in DC.
 
-It will include something like:
+It will include the following (and more):
 
 Masaajid (Mosques)
 <br>
 Centers
 <br>
-Muslim Organizations
+Muslim Organizations: (Muppies, MSA's, MAS, CenterDC)
 <br>
-Muslim Services
+Muslim Services: (Orthopedics, Dentists, etc)
 <br>
-Zabiha Restaurants
+Zabiha Restaurants: (Roaming Roosters, Kabob Palace, etc)
 <br>
 Halal-friendly locations
 <br>
-Links to event websites
+Links to events
+<br>
+Mentorship
 <br>
 Etc
 <br>
